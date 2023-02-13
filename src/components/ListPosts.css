@@ -1,0 +1,28 @@
+.card {
+    background-color: #fff;
+    border: 2px solid rgb(226, 226, 226);
+    padding: 40px 25px;
+    width: 100%;
+    max-width: 600px;
+    min-width: 600px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+  }
+  
+  .card .card-body h1 {
+    font-family: Heebo;
+    font-size: 2.6rem;
+    margin-bottom: 10px;
+  }
+  
+  .line {
+    width: 100%;
+    height: 2px;
+    border: 1px solid rgb(218, 218, 218);
+  }
+  
+  .card .card-body h2 {
+    font-family: Raleway;
+    font-size: 1.4rem;
+    margin-top: 15px;
+  }
